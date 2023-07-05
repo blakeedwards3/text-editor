@@ -8,7 +8,7 @@ This app is a text editor that you can install locally. It uses the PWA structur
 ## Links
 
 - GitHub Repository: https://github.com/blakeedwards3/text-editor
-- Link to application: 
+- Link to application: https://still-taiga-16052-680f52c76b64.herokuapp.com/
 
 
 ## Usage
