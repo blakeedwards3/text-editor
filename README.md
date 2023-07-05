@@ -3,7 +3,7 @@ A text editor that runs in the browser
 
 ## Description
 
-This app is a text editor that you can install locally. It uses the PWA structure.
+This is a text editor that uses PWA structure. It can be installed locally as an app on your computer, and saves all your text even when you're offline!
 
 ## Links
 
@@ -15,7 +15,8 @@ This app is a text editor that you can install locally. It uses the PWA structur
 
 ## Usage
 
-- Navigate to the root folder and run "npm install" and "npm run start"
+- Navigate to the root folder and run "npm install" and "npm start"
+- Install the app locally, or use in the browser
 
 ## Credits
 
