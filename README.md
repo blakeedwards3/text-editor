@@ -10,6 +10,8 @@ This app is a text editor that you can install locally. It uses the PWA structur
 - GitHub Repository: https://github.com/blakeedwards3/text-editor
 - Link to application: https://still-taiga-16052-680f52c76b64.herokuapp.com/
 
+- ![Alt text](assets/JATE.png)
+
 
 ## Usage
 
@@ -19,4 +21,5 @@ This app is a text editor that you can install locally. It uses the PWA structur
 
 Below is a list of a few resources I used to help complete the assignment and better understand what the code is doing.
 - The PWA mini project from the UNCC coding bootcamp helped a lot!
+- AskBCS helped with debugging issues
 - https://www.freecodecamp.org/news/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2/
